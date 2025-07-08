@@ -1,0 +1,15 @@
+# Ignore logs folder
+logs/
+footages/
+
+# Bytecode and Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# OS metadata
+.DS_Store
+Thumbs.db
